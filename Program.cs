@@ -4,7 +4,7 @@ using System.IO;
 
 class QuizProgram
 {
-    private const int SCORE = 20;
+    private const int SCORE = 25;
 
     static void Main(string[] args)
     {
